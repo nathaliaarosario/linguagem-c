@@ -10,6 +10,12 @@ void criar_index(char *nome){
 }
 
 
+void novo_arquivo(char *nome, char *conteudo){
+    FILE *arquivo;
+    arquivo = fopen(nome,"a");
+    fputs(conteudo,arquivo);
+    fclose(arquivo);
+}
 
 
 
