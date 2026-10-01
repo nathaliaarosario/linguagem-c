@@ -1,0 +1,26 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+
+	int a, i, resp;
+
+	do {
+		printf("Escolha uma tabuada para ser executada:\n");
+		scanf("%d",&a);
+
+		system("clear");
+
+		for(i=0; i <= 10; i++) {
+			printf("%d x %d = %d\n ", a, i, (a*i));
+		}
+
+		printf("Continuar? (1- Sim / 2- Não)\n");
+		scanf("%d", &resp);
+		
+	} while(resp == 1);
+	
+	printf("Programa finalizado!");
+	
+	return 0;
+}
