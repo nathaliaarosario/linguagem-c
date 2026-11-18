@@ -1,48 +1,42 @@
 # 💻 Lógica de Programação com C
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Linguagem-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Área-Desenvolvimento de Software-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge" />
-</p>
+\<p align="center">
+&#x20; \<img src="[https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=white)" />
+&#x20; \<img src="[https://img.shields.io/badge/Área-Lógica%20de%20Programação-blue?style=for-the-badge](https://img.shields.io/badge/Área-Lógica%20de%20Programação-blue?style=for-the-badge)" />
+&#x20; \<img src="[https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge](https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge)" />
+\</p>
 
 ## 🚀 Sobre o projeto
 
-Este repositório reúne exercícios e pequenos projetos desenvolvidos durante meus estudos de **Lógica de Programação utilizando a linguagem C**.
+Repositório desenvolvido durante meus estudos de **Lógica de Programação utilizando a linguagem C**.
 
-O objetivo é desenvolver o raciocínio lógico, fortalecer os fundamentos da programação e aplicar conceitos computacionais na resolução de problemas práticos.
+Contém exercícios e pequenos projetos práticos voltados ao desenvolvimento do raciocínio lógico, construção de algoritmos e resolução de problemas computacionais.
 
-Mais do que escrever códigos, este projeto representa minha evolução na construção de algoritmos, compreensão da lógica computacional e desenvolvimento de soluções.
+O projeto representa a consolidação dos fundamentos da programação estruturada e o desenvolvimento de uma base técnica para aplicações em outras linguagens.
 
 ## 🧠 Conhecimentos aplicados
 
-Ao longo dos exercícios, foram explorados conceitos fundamentais da programação:
-
-| Conceito | Aplicação |
-|---|---|
+| Conceito                   | Aplicação                                  |
+| -------------------------- | ------------------------------------------ |
 | Variáveis e tipos de dados | Armazenamento e manipulação de informações |
-| Operadores | Operações e expressões matemáticas |
-| Estruturas condicionais | Tomada de decisões |
-| Estruturas de repetição | Execução de processos iterativos |
-| Vetores e matrizes | Organização e manipulação de dados |
-| Strings | Manipulação de textos |
-| Ponteiros | Estudo de endereços de memória |
-| Structs | Organização de dados estruturados |
-| Funções | Organização e reutilização de código |
+| Operadores                 | Operações matemáticas e lógicas            |
+| Estruturas condicionais    | Controle de decisões                       |
+| Estruturas de repetição    | Execução de processos iterativos           |
+| Vetores e matrizes         | Organização e manipulação de dados         |
+| Strings                    | Manipulação de textos                      |
+| Ponteiros                  | Estudo de endereços de memória             |
+| Structs                    | Organização de dados estruturados          |
+| Funções                    | Modularização e reutilização de código     |
 
 ## 📂 Organização do projeto
 
-Os códigos-fonte estão organizados na pasta `src`, contemplando diferentes exercícios e práticas de programação.
+Os códigos-fonte estão organizados na pasta `src`, reunindo exercícios e práticas desenvolvidos durante o aprendizado.
 
-Entre os arquivos, estão exemplos envolvendo:
+O repositório também contém materiais e arquivos complementares relacionados aos estudos.
 
-- Operações e manipulação de dados;
-- Laços de repetição (`for` e `while`);
-- Exercícios com vetores e arrays;
-- Manipulação de textos;
-- Estudos com ponteiros;
-- Estruturas de dados com `struct`;
-- Pequenos projetos envolvendo lógica de programação.
+## 🛠️ Tecnologia utilizada
+
+- **Linguagem C** — desenvolvimento dos algoritmos e exercícios.
 
 ## ⚙️ Como executar
 
@@ -60,41 +54,44 @@ git clone https://github.com/nathaliaarosario/linguagem-c.git
 cd linguagem-c
 ```
 
-**3. Compile um dos arquivos:**
+**3. Compile um arquivo-fonte:**
 
 ```bash
-gcc src/hello.c -o programa
+gcc src/nome-do-arquivo.c -o programa
 ```
 
-**4. Execute:**
+**4. Execute o programa:**
 
 ```bash
 ./programa
 ```
 
-No Windows, execute:
+No Windows:
 
 ```bash
 programa.exe
 ```
 
-## 🎯 Objetivo de aprendizado
+## 🎯 Objetivos de aprendizado
 
-- Desenvolver pensamento lógico e analítico.
+- Desenvolver raciocínio lógico e pensamento analítico.
 - Compreender os fundamentos da programação estruturada.
 - Aprimorar a capacidade de resolução de problemas.
-- Construir uma base técnica para estudar novas linguagens e tecnologias.
+- Trabalhar com estruturas de dados fundamentais.
+- Construir uma base sólida para o desenvolvimento de software.
+
+## 📌 Status do projeto
+
+\<badge color="success">Concluído\</badge>
+
+Repositório finalizado como parte dos estudos de lógica de programação e fundamentos da linguagem C.
 
 ## 👩‍💻 Autora
 
 **Nathalia Alves Rosário**
 
-Estudante de Tecnologia da Informação, com interesse em desenvolvimento de software, programação e tecnologia.
-
-[![GitHub](https://img.shields.io/badge/GitHub-nathaliaarosario-181717?style=for-the-badge&logo=github)](https://github.com/nathaliaarosario)
+Estudante de **Engenharia de Software**, com interesse em desenvolvimento Back-end, algoritmos, programação e engenharia de software.
 
 ---
 
-<p align="center">
-  Desenvolvido por <strong>Nathalia Alves Rosário</strong>
-</p>
+\<p align="center">   Desenvolvido por \<strong>Nathalia Alves Rosário\</strong> \</p>
