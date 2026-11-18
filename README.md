@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Linguagem-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Área-Desenvolvimento de Software-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Em desenvolvimento-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Concluído-success?style=for-the-badge" />
 </p>
 
 ## 🚀 Sobre o projeto
